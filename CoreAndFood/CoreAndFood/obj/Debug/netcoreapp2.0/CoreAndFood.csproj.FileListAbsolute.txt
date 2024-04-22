@@ -1,0 +1,11 @@
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.0\CoreAndFood.deps.json
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.0\CoreAndFood.runtimeconfig.json
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.0\CoreAndFood.runtimeconfig.dev.json
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.0\CoreAndFood.dll
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.0\CoreAndFood.csprojAssemblyReference.cache
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.0\CoreAndFood.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.0\CoreAndFood.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.0\CoreAndFood.AssemblyInfo.cs
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.0\CoreAndFood.pdb
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.0\CoreAndFood.dll
+C:\Users\recep\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.0\CoreAndFood.pdb
