@@ -10,7 +10,7 @@ namespace CoreAndFood.Data.Models
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-2H8KD1S\\SQLEXPRESS01;" +
+            optionsBuilder.UseSqlServer("server=MSSQL;" +
                 " database=DbCoreFood; integrated security=true;");
         }
         public DbSet<Food> Foods { get; set; }
